@@ -1,0 +1,78 @@
+.body {
+    border-radius: 10px;
+    color: white;
+
+}
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+    text-align: center;
+}
+.german{
+    background-color: black;
+    border-radius: 10px;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    color: white;
+}
+.naz1 {
+    height: 300px;
+    border-radius: 10px;
+}
+.imagess {
+    display: flex;
+    justify-content: space-between;
+}
+.did {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+.land {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 500px;
+}
+.img2 {
+    width: 300px;
+    height: 400px;
+}
+.plan {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 700px;
+}
+.foot{
+    background-color: black;
+    width: 60%;
+    height: 300px;
+    color: white;
+    text-align: center;
+}
+.am{
+    background-color: black;
+    width: 70%;
+    justify-content: center;
+   height: 300px;
+   color: white;
+
+}
+.am1{
+    width: 200px;
+    height: 200px;
+    display: flex;
+
+
+}
+.fat {
+    background-color: black;
+    color: white;
+}
+
+
